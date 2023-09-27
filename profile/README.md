@@ -1,7 +1,11 @@
 ## Hi there 👋
 ### Welcome to Slip through Sands!
 
-We are an Indie game development studio from Bangalore. 
+### introduction
+We are an Indie game development studio from Bangalore, comprised of college students. 
+
+### Contribution guidelines
+Pull requests are welcome! 
 <!--
 
 **Here are some ideas to get you started:**
