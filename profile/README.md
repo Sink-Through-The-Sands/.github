@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Welcome to Slip through Sands!
+### Welcome to Sink through the Sands!
 
 ### introduction
 We are an Indie game development studio from Bangalore, comprised of college students. 
